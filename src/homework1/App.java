@@ -18,10 +18,7 @@ public class App {
         // Создаем команду
         Team team = new Team("Dream Team",
                 new TeamMember[]{
-                        new TeamMember("John", LOW),
-                        new TeamMember("Marble", MEDIUM),
-                        new TeamMember("Andy", MEDIUM),
-                        new TeamMember("Martin", HIGH),
+                        new TeamMember("Martin", LOW),
                         new TeamMember("Justin", HIGH),
                         new TeamMember("Kate", MEDIUM),
                         new TeamMember("Chuck", CHUCK_NORRIS),
